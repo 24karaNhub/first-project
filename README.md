@@ -1,2 +1,2 @@
 # first-project
-this is first 
+this is first project
